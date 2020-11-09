@@ -1,0 +1,31 @@
+{
+  "name": "serverhomedrive",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ganthas/homedrive.git"
+  },
+  "keywords": [
+    "homedrive",
+    "googledrive",
+    "custom",
+    "googledrive"
+  ],
+  "author": "Josías Sanhueza Gatica",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ganthas/homedrive/issues"
+  },
+  "homepage": "https://github.com/Ganthas/homedrive#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.6"
+  }
+}
